@@ -1,0 +1,12 @@
+com\codedecode\order\entity\Order.class
+com\codedecode\order\OrderApplication.class
+com\codedecode\order\repository\OrderRepository.class
+com\codedecode\order\service\OrderService.class
+com\codedecode\order\dto\UserDTO.class
+com\codedecode\order\dto\FoodItemDTO.class
+com\codedecode\order\dto\Restaurant.class
+com\codedecode\order\controller\OrderController.class
+com\codedecode\order\entity\Sequence.class
+com\codedecode\order\dto\OrderDTO.class
+com\codedecode\order\service\SequenceGenerator.class
+com\codedecode\order\dto\OrderDTOFromFE.class
